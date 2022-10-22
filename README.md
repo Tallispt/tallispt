@@ -16,7 +16,7 @@ console.log(
 
 - 🚀  I'm currently studing SQL
 - 🧪  I'm a postgraduate student in Analytical Chemistry from Unicamp
-- 👨‍🎓  I'm gradutated in chemstry from Federal University of Viçosa
+- 👨‍🎓  I'm gradutated in chemistry from Federal University of Viçosa
 - 💡  I'm looking for learning languages
 - 😉  My pronuns are he/him 
 - 🏹  Fun fact: I'm a sagittarius and love cooking
