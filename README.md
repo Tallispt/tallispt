@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="325" src="https://cdn4.iconfinder.com/data/icons/pop-scenes/1000/navigation___explore_space_exploration_astronaut_planets_planet-512.png"  />
+<!--<img align="right" height="325" src="https://cdn4.iconfinder.com/data/icons/pop-scenes/1000/navigation___explore_space_exploration_astronaut_planets_planet-512.png"  />-->
 
 ###
 
