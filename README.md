@@ -48,7 +48,7 @@ console.log(
 
 ### Contact me
 
-  <a href="https://www.linkedin.com/in/tallis-tonon-462816207/">
+  <a href="https://www.linkedin.com/in/tallis-tonon/">
   <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
   <a href="mailto:tallispt@gmail.com">
