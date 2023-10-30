@@ -6,8 +6,8 @@
 
 ###
 
-```python
-print(
+```javascript
+console.log(
   "I'm a Full-Stack Web Developer"
 )
 ```
