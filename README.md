@@ -6,15 +6,15 @@
 
 ###
 
-```javascript
-console.log(
+```python
+print(
   "I'm a Full-Stack Web Developer"
 )
 ```
 
 <h2 align="left">About Me</h2>
 
-- 🚀  I'm currently studing Java
+- 🚀  I'm currently studing Docker
 - 🧪  I'm a postgraduate student in Analytical Chemistry from Unicamp
 - 👨‍🎓  I'm gradutated in chemistry from Federal University of Viçosa
 - 💡  I'm looking for learning languages
